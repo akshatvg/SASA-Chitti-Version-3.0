@@ -28,24 +28,3 @@ In order to make a proper plan for living on Mars, we need to know all these det
 3) Bore to dig into the soil.
 
 4) Automatic wind protection.
-
-
-## Team
-
-SASA
-
-
-## Product
-
-Chitti Version 2.0
-
-
-## Members
-
-1) Akshat Gupta
-
-2) Aman Agarwal
-
-3) Sai Sandeep
-
-4) Shivansh Srivastava
