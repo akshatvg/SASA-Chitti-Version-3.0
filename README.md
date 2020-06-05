@@ -12,17 +12,6 @@ This project helps find out soil composition on other planets to find out if the
 
 ![Generic badge](https://img.shields.io/badge/SASA_Chitti_Version-3.0-orange) 
 
-#### Link for [demo](https://SASA-Chitti-Version-3.0.akshatvg.com) 
-[![Generic badge](https://img.shields.io/badge/view-demo-orange)](https://SASA-Chitti-Version-3.0.akshatvg.com)
-
-## Useful Links
-
-- [Actual Website](https:/SASA-Chitti-Version-3.0.com)
-
-## Requirements
-
-[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/SASA-Chitti-Version-3.0?logo=jupyter&style=social)](https://github.com/akshatvg/)
-
 ## Introduction
 
 Most of what we know about the elemental composition of Mars comes from orbiting spacecraft and landers.
@@ -49,8 +38,11 @@ In order to make a proper plan for living on Mars, we need to know all these det
 
 4) Automatic wind protection.
 
-## Need help?
+## Requirements
 
+[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/SASA-Chitti-Version-3.0?logo=jupyter&style=social)](https://github.com/akshatvg/)
+
+## Need help?
 
 Feel free to contact me via [Facebook](https://www.facebook.com/akshatvg).
 
