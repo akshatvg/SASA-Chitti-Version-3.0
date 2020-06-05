@@ -4,11 +4,7 @@
 
 This project helps find out soil composition on other planets to find out if they're habitable or not.
 
-<p align="center">
-<a href="https://github.com/akshatvg/SASA-Chitti-Version-3.0">
-<h1>SASA- Chitti Version 3.0</h1>
-</a>
-</p>
+<h1 align="center">SASA- Chitti Version 3.0</h1>
 
 ![Generic badge](https://img.shields.io/badge/SASA_Chitti_Version-3.0-orange) 
 
