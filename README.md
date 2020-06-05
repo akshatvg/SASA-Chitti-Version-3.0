@@ -1,12 +1,12 @@
 # SASA- Chitti Version 3.0
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/akshatvg/SASA-Chitti-Version-3.0?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/akshatvg/SASA-Chitti-Version-3.0?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub last commit](https://img.shields.io/github/last-commit/akshatvg/SASA-Chitti-Version-3.0?style=social&logo=git)](https://github.com/akshatvg/) [![GitHub stars](https://img.shields.io/github/stars/akshatvg/SASA-Chitti-Version-3.0?style=social)](https://github.com/akshatvg/SASA-Chitti-Version-3.0/stargazers) [![GitHub forks](https://img.shields.io/github/forks/akshatvg/SASA-Chitti-Version-3.0?style=social&logo=git)](https://github.com/akshatvg/SASA-Chitti-Version-3.0/network)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/akshatvg/SASA-Chitti-Version-3.0?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub last commit](https://img.shields.io/github/last-commit/akshatvg/SASA-Chitti-Version-3.0?style=social&logo=git)](https://github.com/akshatvg/) [![GitHub stars](https://img.shields.io/github/stars/akshatvg/SASA-Chitti-Version-3.0?style=social)](https://github.com/akshatvg/SASA-Chitti-Version-3.0/stargazers) [![GitHub forks](https://img.shields.io/github/forks/akshatvg/SASA-Chitti-Version-3.0?style=social&logo=git)](https://github.com/akshatvg/SASA-Chitti-Version-3.0/network)
 
 This project helps find out soil composition on other planets to find out if they're habitable or not.
 
 <p align="center">
-<a href="https://SASA-Chitti-Version-3.0.akshatvg.com">
-<img src="https://github.com/akshatvg/SASA-Chitti-Version-3.0/blob/master/Assets/app-icon-64%402x.png" width="120px" height="120px" alt="SASA-Chitti-Version-3.0 Logo"/>
+<a href="https://github.com/akshatvg/SASA-Chitti-Version-3.0">
+<h1>SASA- Chitti Version 3.0</h1>
 </a>
 </p>
 
